@@ -10,7 +10,7 @@ My solutions to multiple [Kattis problems](https://open.kattis.com/).
 | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/numbersOnATree.py) |
 | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/permutationDescentCount.py) |
 | [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/welcomeHard.py) |
-| [Accounting/Bokforing](https://open.kattis.com/problems/bokforing) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/accounting.py) |
+| [Accounting/Bokforing](https://open.kattis.com/problems/bokforing) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/bokforing.py) |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/anagramCounting.py) |
 | [Annoyed Coworkers](https://open.kattis.com/problems/annoyedcoworkers) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/annoyedCoworkers.py) |
 | [Antenna Analysis](https://open.kattis.com/problems/antennaanalysis) | [Python 3](https://github.com/Sorsell/KattisSolutions/blob/main/pythonSolutions/antennaAnalysis.py) |
